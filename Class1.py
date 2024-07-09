@@ -1,12 +1,12 @@
 #If, else 
 
-velocidade = 50
-if velocidade > 110: 
-    print('Acima da velocidade permitida')
-    print('Favor reduzir a sua velocidade') 
-elif velocidade  < 60:
-    print('Favor dirigir acima de 80Km/h')
+speed = 50
+if speed > 110: 
+    print('Above the permitted speed')
+    print('Please reduce your speed') 
+elif speed  < 60:
+    print('Please drive above 80km/h')
 else:
-    print('velocidade OK')
+    print('Speed OK')
 
-#print('Fim')
+print('End')
