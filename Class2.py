@@ -4,7 +4,7 @@
 renda_acima_5mil = False
 nome_limpo = False
 
-#and / or
+#And/Or
 if renda_acima_5mil or nome_limpo:
     print('Financiamento aprovado')
 else: 
